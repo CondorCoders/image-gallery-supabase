@@ -1,27 +1,19 @@
-# Next.js + Tailwind CSS Example
+# Galeria de Imágenes con NextJS y Supabase
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+El objetivo de este proyecto es crear una galería de imágenes que servirá como una oportunidad para aprender a utilizar [Next.js](https://nextjs.org/) y [Supabase](https://supabase.com/).
 
-## Deploy your own
+## Tech Stack
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+**Next.js:** es un framework de React que permite construir aplicaciones web escalables y de alto rendimiento. Además, cuenta con características como el pre-renderizado, que mejora el rendimiento de la aplicación.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+**Supabase:** es una plataforma de base de datos que proporciona una API para acceder a los datos almacenados. Supabase también proporciona herramientas para autenticación y autorización, lo que facilita la gestión de usuarios en la aplicación.
 
-## How to use
+**Tailwind CSS:** es un framework de CSS que proporciona una gran cantidad de clases de estilo predefinidas que puedes utilizar para diseñar tus páginas web de manera rápida y fácil.
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## Screenshot
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+## Referencia
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- [Building an Image Gallery with Next.js, Supabase, and Tailwind CSS](https://leerob.io/blog/image-gallery-supabase-tailwind-nextjs#conclusion)
