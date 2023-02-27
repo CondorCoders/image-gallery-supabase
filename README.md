@@ -11,8 +11,8 @@ El objetivo de este proyecto es crear una galería de imágenes que servirá com
 **Tailwind CSS:** es un framework de CSS que proporciona una gran cantidad de clases de estilo predefinidas que puedes utilizar para diseñar tus páginas web de manera rápida y fácil.
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/37431668/221569931-39fedcd1-a39d-4e0a-9308-941d458b4efc.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Referencia
 
